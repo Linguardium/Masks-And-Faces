@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "masksfaces",
+  "version": "${version}",
+  "name": "Masks and Faces",
+  "description": "Adds wearable masks",
+  "authors": [
+    "Linguardium"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/masksfaces/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "mod.linguardium.masksfaces.Main"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "masksfaces.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}

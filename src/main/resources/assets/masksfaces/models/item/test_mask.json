@@ -1,0 +1,6 @@
+{
+  "parent": "masksfaces:item/mask",
+  "textures": {
+    "0": "masksfaces:masks/pink_eyes_skull"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "masksfaces:item/mask",
+  "textures": {
+    "0": "masksfaces:masks/smiley"
+  }
+}

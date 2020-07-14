@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "mod.linguardium.masksfaces.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "PlayerEntityRendererMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
